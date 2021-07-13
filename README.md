@@ -17,3 +17,4 @@ Solutions to HackerRank problems
 |Warmup|[Staircase](https://www.hackerrank.com/challenges/staircase)|[Python](algorithms/staircase.py)|Easy|
 |Warmup|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)|[Python](algorithms/mini_max_sum.py)|Easy|
 |Warmup|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)|[Python](algorithms/birthday_cake_candles.py)|Easy|
+|Warmup|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)|[Python](algorithms/time_conversion.py)|Easy|
