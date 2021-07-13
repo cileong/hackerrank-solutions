@@ -13,3 +13,4 @@ Solutions to HackerRank problems
 |Warmup|[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)|[Python](algorithms/compare_the_triplets.py)|Easy|
 |Warmup|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)|[Python](algorithms/a_very_big_sum.py)|Easy|
 |Warmup|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)|[Python](algorithms/diagonal_difference.py)|Easy|
+|Warmup|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)|[Python](algorithms/plus_minus.py)|Easy|
