@@ -15,3 +15,4 @@ Solutions to HackerRank problems
 |Warmup|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)|[Python](algorithms/diagonal_difference.py)|Easy|
 |Warmup|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)|[Python](algorithms/plus_minus.py)|Easy|
 |Warmup|[Staircase](https://www.hackerrank.com/challenges/staircase)|[Python](algorithms/staircase.py)|Easy|
+|Warmup|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)|[Python](algorithms/mini_max_sum.py)|Easy|
